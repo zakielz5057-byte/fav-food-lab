@@ -1,49 +1,84 @@
 
-# ⚽ MY PROFILE ⚽
+<div align="center">
 
-## Thapanawat TangThamjaree
+# 👑 THAPANAWAT TANGTHAMJAREE 👑
 
-**FOOTBALL × CARDFIGHT!! VANGUARD**
+### ⚽ FOOTBALL • 🃏 CARDFIGHT • 🎮 GAMING
 
----
+*Welcome to my world!*
 
-## ⚽ FOOTBALL ZONE
+━━━━━━━━━━━━━━━━━━━━
 
-### 🏆 My Favorite Team
-# REAL MADRID 🤍
+</div>
 
-- I like football.
-- My favorite football team is Real Madrid.
-- Hala Madrid! 🤍
+## ⚡ ABOUT ME
 
----
+> 🎮 **Pro Player Free Fire**
+
+> ⚽ **Football Lover**
+
+> 🃏 **Cardfight!! Vanguard Player**
+
+━━━━━━━━━━━━━━━━━━━━
+
+## ⚽ MY FOOTBALL WORLD
+
+<div align="center">
+
+# 🤍 REAL MADRID 🤍
+
+### HALA MADRID!
+
+*My Favorite Football Club*
+
+🏆 Passion • Victory • Glory
+
+</div>
+
+━━━━━━━━━━━━━━━━━━━━
 
 ## 🃏 CARDFIGHT!! VANGUARD
 
-- My hobby is playing Cardfight!! Vanguard.
-- Fight! Stand Up! Vanguard!
+**STAND UP, VANGUARD!**
 
----
+- 🃏 Playing Cardfight!! Vanguard
+- ⚔️ Enjoying Card Battles
+- 🔥 Always Ready to Fight!
+
+━━━━━━━━━━━━━━━━━━━━
 
 ## 🎮 GAMING ZONE
 
 ### 🔥 FREE FIRE PRO PLAYER
 
-- I am a Free Fire Pro Player.
-- Gaming is my passion.
+- 🎯 Gaming is my passion.
+- 🏆 Play to Win.
+- ⚡ Never Give Up.
 
----
+━━━━━━━━━━━━━━━━━━━━
 
 ## 📚 MY HOBBIES
 
-- ⚽ Playing Football
-- 🃏 Playing Cardfight!! Vanguard
-- 📖 Reading Novels
+| Icon | Hobby |
+|:---:|---|
+| ⚽ | Playing Football |
+| 🃏 | Playing Cardfight!! Vanguard |
+| 📖 | Reading Novels |
+
+━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+# 🌟 MY MOTTO 🌟
+
+### "NEVER GIVE UP!"
+
+**⚽ HALA MADRID × 🃏 STAND UP VANGUARD**
+
+*Play Hard • Fight Hard • Dream Big*
 
 ---
 
-# 🔥 NEVER GIVE UP!
+© 2026 | THAPANAWAT
 
-### ⚽ HALA MADRID! × STAND UP VANGUARD! 🃏
-
-© 2026 Thapanawat
+</div>
