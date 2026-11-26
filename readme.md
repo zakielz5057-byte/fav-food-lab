@@ -1,5 +1,3 @@
-# Hello world
-# Hello world
-# Hello world
-# Hello world
-# Hello world
+# ข้าวกะเพราหมูสับ
+# ข้าวมันไก่
+# ข้าวหมูกรอบ
